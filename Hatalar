@@ -1,0 +1,3 @@
+jparepostory kullanıldığından delete,update,findAll  işlemleri bulunuyorken creat veya add işlemleri olmadığından add fonksiyonu update işlemi yapmaktadır.
+delete fonksiyonu 500 hatası döndürmektedir.Id kullanarak delete işlemi yapılmaya çalışılmıştır fakat düzeltilememiştir.
+Proje hatalardan arınınca dosya güncellenecektir.
